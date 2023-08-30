@@ -1,0 +1,18 @@
+.conecter{
+    display: grid;
+    grid-template-columns:1fr 1fr 1fr 1fr ;
+    grid-template-rows: 1fr 1fr 1fr 1fr;
+    background-color:yellow;
+    width: 1655px
+    margin:45px auto;
+    
+
+}
+
+.item{
+    background-color:blue;
+    height:159px; 
+    width:150px;
+} 
+ 
+
